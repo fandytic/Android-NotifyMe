@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/anim/abc_popup_exit.xml"
+    }
+]

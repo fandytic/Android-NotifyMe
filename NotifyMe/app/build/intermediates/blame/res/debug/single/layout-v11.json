@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/imac-14/Documents/Fandy Hidayat_3TIC/NotifyMe/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/imac-14/.android/build-cache/3aa915fcf875e597bc4f0b047ce29f63186659b9/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
