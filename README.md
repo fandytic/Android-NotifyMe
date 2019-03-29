@@ -1,2 +1,2 @@
 # Android-NotifyMe
-make android apk with android studio
+make android apk notification with android studio
